@@ -9,6 +9,7 @@
 /* Room and users component */
 .roomAndUsersColumn {
   border-right: 1px solid #dfdfdf;
+  text-align: center;
 }
 .roomTitle {
   margin-bottom: 60px;
